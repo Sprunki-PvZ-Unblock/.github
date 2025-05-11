@@ -1,8 +1,8 @@
 # Sprunki PvZ: Tactical Defense Adventure
 
-![Sprunki PvZ](https://raw.githubusercontent.com/Sprunki-PvZ-Unblock/.githubrefs/heads/main/sprunki-pvz.png "Sprunki PvZ")
-![Sprunki PvZ](https://raw.githubusercontent.com/Sprunki-PvZ-Unblock/.githubrefs/heads/main/sprunki-pvz-2.png "Sprunki PvZ")
-![Sprunki PvZ](https://raw.githubusercontent.com/Sprunki-PvZ-Unblock/.githubrefs/heads/main/sprunki-pvz-3.png "Sprunki PvZ")
+![Sprunki PvZ](https://raw.githubusercontent.com/Sprunki-PvZ-Unblock/.github/refs/heads/main/sprunki-pvz.png "Sprunki PvZ")
+![Sprunki PvZ](https://raw.githubusercontent.com/Sprunki-PvZ-Unblock/.github/refs/heads/main/sprunki-pvz-2.png "Sprunki PvZ")
+![Sprunki PvZ](https://raw.githubusercontent.com/Sprunki-PvZ-Unblock/.github/refs/heads/main/sprunki-pvz-3.png "Sprunki PvZ")
 
 👉👉 Click to play，Original Edition: [Sprunki PvZ](https://sprunksters.com/sprunki-pvz/ "Sprunki PvZ")
 
